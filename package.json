@@ -1,0 +1,26 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "O primeiro projecto de ponta a cabeça, sendo guiado pelo felipe dechamps no curso.dev",
+  "homepage": "https://github.com/AdalbertoAo/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/AdalbertoAo/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdalbertoAo/clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "AdalbertoAo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+},
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+  
+}
